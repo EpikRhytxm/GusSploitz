@@ -1,0 +1,9 @@
+repeat wait() until game:IsLoaded()
+local PlaceId = game.PlaceId
+if PlaceId == 855499080 or PlaceId == 855499080 or PlaceId == 283721918 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EpikBirdo/SKYWARS-GUSSPLOIT-EZ/main/GusSploit%20Demo'))()
+elseif PlaceId == 621129760 or PlaceId == 621129760 or PlaceId == 621129760 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/EpikRhytxm/Epik/main/KatScript")()
+elseif PlaceId == 8888615802 or PlaceId == 8888615802 or PlaceId == 8888615802 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/EpikRhytxm/GusSploitt/main/RainbowFriends")()
+end
